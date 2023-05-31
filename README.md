@@ -15,6 +15,9 @@ For MNIST digit dataset, multiclass classification is performed for 10 classes(d
 Dog Vs Cat classification is binary classification for 2 classes: dogs and cats.
 Chinese traffic sign database is again multiclass classification divided into 58 catgories.
 
+Finally, ANN with batch normalization as regularization technique is apllied on part4 having afshion MNIIST and heart failure prediction dataset.
+On applying the regularization techniques like batch normalization, we can ovserve that it prevents data from overfitting and hence better results with good accuracy can be obained. 
+
 
 
 
